@@ -8,5 +8,5 @@ Test Case to implement:
 4. Search for some product  
 5. Click on the 5th product from search reslut list  
 6. Check if price is less than 10000  
-Please use Chrome browser Please use async/await JS functions.  
+Please use Chrome browser. Please use async/await JS functions.  
 SELENIUM_PROMISE_MANAGER should be disabled in Protractor config.
